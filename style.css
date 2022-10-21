@@ -1,3 +1,11 @@
+@import url();
+
 body{
     background: linear-gradient(90deg, rgb(86, 73, 75), rgb(155, 155, 243));
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
 }
